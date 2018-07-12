@@ -1,0 +1,49 @@
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\log4net.dll
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\log4net.xml
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\mefsoft\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\log4net.dll
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\log4net.xml
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MEFSOFT\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\log4net.dll
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\log4net.xml
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MEFSOFT\Desktop\işler\PROJELER\koçsistem\log\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
